@@ -16,5 +16,8 @@ You must use only standard operations of a queue, which means that only push to 
 
 Depending on your language, the queue may not be supported natively. You may simulate a queue using a list or deque (double-ended queue) as long as you use only a queue's standard operations.
 
+## IDE
+Intellij IDEA
+
 ## Language
 Java 12
